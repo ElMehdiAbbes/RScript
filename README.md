@@ -1,7 +1,7 @@
 # Decision-Tree
 
 ## Binder Badge to start the Binder environment:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GharbiRaouf/Decision-Tree/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElMehdiAbbes/RScript.git/master)
 
 ## How to perform the exercise?
 Click on the Launch Binder button, then a Binder window will open. A docker container with all necessary images will be created automatically. After a successful creation, a Jupyter window will be opened. Open Decision_Trees_Projekt.ipynb and then click on Run All at the top of Cell.
