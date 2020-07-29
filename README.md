@@ -65,7 +65,7 @@ dtreeFit()
 
 And as you can see these are the output after execution:
 - Logger
-![Alt text](logger.png?raw=true "Logger output")
+![Alt text](/ElMehdiAbbes/RScript/blob/master/logger.PNG?raw=true "Logger output")
 
 - Timer
 ![Alt text](timmer.png?raw=true "Timer output")
