@@ -65,7 +65,7 @@ dtreeFit()
 
 And as you can see these are the output after execution:
 - Logger
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](logger.png?raw=true "Logger output")
 
 - Timer
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](timmer.png?raw=true "Timer output")
