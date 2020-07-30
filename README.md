@@ -69,3 +69,19 @@ And as you can see these are the output after execution:
 
 - Timer
 ![Screenshot](timer.PNG)
+
+
+## Unit Tests
+
+The first unit test case is reading its test data set from test_data.txt file.
+The user is now able to change the data set for this test through one of the following methods:
+```
+Override the data set with new one in test_data.txt
+Run unit tests
+```
+or
+```
+Remove test_data.txt 
+Rename test_data2.txt to test_data.text
+Run unit tests
+```
