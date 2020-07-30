@@ -68,4 +68,4 @@ And as you can see these are the output after execution:
 ![Screenshot](logger.PNG)
 
 - Timer
-![Screenshot](timer.png)
+![Screenshot](timer.PNG)
